@@ -51,10 +51,8 @@ do
     }
 
 
-
-
-
 } while(option != "6");
+
 
 
 
