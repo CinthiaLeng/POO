@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.sourcelink.json
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\bin\Debug\net8.0\algoritmo.BibliotecaMain.exe
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\bin\Debug\net8.0\algoritmo.BibliotecaMain.deps.json
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\bin\Debug\net8.0\algoritmo.BibliotecaMain.runtimeconfig.json
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\bin\Debug\net8.0\algoritmo.BibliotecaMain.dll
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\bin\Debug\net8.0\algoritmo.BibliotecaMain.pdb
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.dll
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\refint\algoritmo.BibliotecaMain.dll
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.pdb
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\algoritmo.BibliotecaMain.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\algoritmo.BibliotecaMain\algoritmo.BibliotecaMain\obj\Debug\net8.0\ref\algoritmo.BibliotecaMain.dll
